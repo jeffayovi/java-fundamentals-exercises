@@ -15,10 +15,9 @@ Dominar los fundamentos de Java y POO mediante 150+ ejercicios
 - [ ] Modelado con UML 2.5.1 y Diseño de Clases
 - [ ] Introducción a Swing
 
-## 🏗️ Estructura del Proyecto
-- `src/basic-syntax/`: Ejercicios de sintaxis básica
-- `hackerrank-solutions/`: Soluciones organizadas por dificultad
-- `leetcode-solutions/`: Problemas de algoritmos
+## 🏗️ Ejercicios
+- [x] Practica: Hola Mundo
+
 
 ## 🔧 Tecnologías
 - Java 17
