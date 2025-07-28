@@ -17,6 +17,8 @@ Dominar los fundamentos de Java y POO mediante 150+ ejercicios
 
 ## 🏗️ Ejercicios
 - [x] Practica: Hola Mundo
+- [x] Practica: Try This 1-1 (Galones a Litros)
+- [x] Practica: Try This 1-2 Mejorar el conversor de galones a litros
 
 
 ## 🔧 Tecnologías
