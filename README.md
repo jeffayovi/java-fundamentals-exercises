@@ -19,6 +19,8 @@ Dominar los fundamentos de Java y POO mediante 150+ ejercicios
 - [x] Practica: Hola Mundo
 - [x] Practica: Try This 1-1 (Galones a Litros)
 - [x] Practica: Try This 1-2 Mejorar el conversor de galones a litros
+- [x] Ejercicio: Tabla de conversión de pulgadas a metros.
+- [x] Practica: Try This 2-1 ¿A qué distancia está el rayo?
 
 
 ## 🔧 Tecnologías
