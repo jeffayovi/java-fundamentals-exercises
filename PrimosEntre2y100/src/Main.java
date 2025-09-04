@@ -13,8 +13,10 @@ public class Main {
             divisor = 2;
             primo = true;
 
-
+           //Bucle interno:Comprueba posible divisores hasta la raiz cuadrada de i continua mientra encuentra un divisor y
+            // el divisor exceda raiz cuadrada de i
             while (divisor <= Math.sqrt(i) && primo){
+                //if es divisible por el divisor ,entonces no es primo
                 if (i % divisor == 0){
                     primo = false;
                 }else {
@@ -22,6 +24,7 @@ public class Main {
                 }
 
             }
+            //Si depues de todas las comprobaciones primo sigue siendo verdad, entonces el numero  i es primo y se visualizara
             if ( primo){
                 System.out.println(i + " ");
             }
