@@ -21,7 +21,9 @@ Dominar los fundamentos de Java y POO mediante 150+ ejercicios
 - [x] Practica: Try This 1-2 Mejorar el conversor de galones a litros
 - [x] Ejercicio: Tabla de conversión de pulgadas a metros.
 - [x] Practica: Try This 2-1 ¿A qué distancia está el rayo?
-- [x] Practica:  tabla de verdad para operadores lógicos 
+- [x] Practica:  tabla de verdad para operadores lógicos
+- [x] Ejercicio: Primos Entre2y100
+- [x] ConvertidorDeCasos
 
 
 
